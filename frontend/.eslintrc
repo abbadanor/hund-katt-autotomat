@@ -1,0 +1,7 @@
+{
+  "extends": "@antfu",
+  "rules": {
+    "vue/no-deprecated-slot-attribute": "off",
+    "vue/require-v-for-key": "off"
+  }
+}
